@@ -1,6 +1,6 @@
-![1](Images/distant_view.png)
-
 # Monolith Panels for Voron 2.4 and Trident [BETA]
+
+![1](Images/distant_view.png)
  
 ## What's this?
 Overcomplicated panels.
