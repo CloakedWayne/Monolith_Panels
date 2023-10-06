@@ -1,7 +1,11 @@
+![1](Images/distant_view.png)
+
 # Monolith Panels for Voron 2.4 and Trident [BETA]
  
 ## What's this?
 Overcomplicated panels.
+
+![2](Images/upside_down.png)
 
 ## Use: 
 - The CAD contains everything that's needed for V2/VT 250/300/350mm with BOM thickness panels (3mm) and is also a good assembly guide.
@@ -13,8 +17,12 @@ Overcomplicated panels.
 - Recommended shrinkage compensation for the parts when printed in ABS is 99.3-99.5%. Make sure to test this before committing to printing huge amounts of plastic, because shrinkage can be 3-4mm in total.
 - Clips are fairly sensitive to EM/PA, but can be easily scaled to fit perfectly in the other plastic parts. They're not sensitive to alu extrusion tolerances.
 
+![3](Images/inside.png)
+
 ## BOM
 ### DISCLAIMER: This is a challenging mod and lot of the stuff is still untested. The BOM quantities can greatly vary based on how you build it. Always refer to CAD.
+
+![4](Images/spread_out.png)
 
 |No.|Description|Qty|
 |---|---|---|
@@ -24,3 +32,5 @@ Overcomplicated panels.
 |4.|M3x5x4mm heatset inserts|definitely more than 10|
 |5.|VHB tape|enough|
 |6.|4mm OD PTFE tube|exactly 96mm|
+
+![5](Images/corner_closeup.png)
