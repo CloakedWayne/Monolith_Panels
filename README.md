@@ -20,7 +20,7 @@ Overcomplicated panels.
 ![3](Images/inside.png)
 
 ## BOM
-### DISCLAIMER: This is a challenging mod and lot of the stuff is still untested. The BOM quantities can greatly vary based on how you build it. Always refer to CAD.
+### DISCLAIMER: This is a challenging mod and a lot of the stuff is still untested. The BOM quantities can greatly vary based on how you build it. Always refer to CAD.
 
 ![4](Images/spread_out.png)
 
