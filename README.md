@@ -1,6 +1,14 @@
 # Monolith Panels for Voron 2.4 and Trident [BETA]
 
 ![1](Images/distant_view.png)
+
+## Changelog:
+### 07.10.2023:
+- Slightly beefier corner clamps (FHCS version added).
+
+- Added VHB where I think it's necessary.
+
+- Fixed some naming mistakes.
  
 ## What's this?
 Overcomplicated panels.
@@ -8,9 +16,9 @@ Overcomplicated panels.
 ![2](Images/upside_down.png)
 
 ## Use: 
-- The CAD contains everything that's needed for V2/VT 250/300/350mm with BOM thickness panels (3mm) and is also a good assembly guide.
+- The CAD contains everything that's needed for V2/VT 250/300/350mm with BOM thickness panels (3mm) and is also **a good assembly guide**.
 
-- It's intended to be used with another layer of 3mm foam tape or with 5mm foam tape paired with 4mm panels (Monolith Gantry stepper protrusion is 3.6mm).
+- It's intended to be used with **another layer of 3mm foam tape** or with 5mm foam tape paired with 4mm panels (Monolith Gantry stepper protrusion is 3.6mm).
 
 - Feel free to remix the parts for different setups!
 
@@ -20,7 +28,7 @@ Overcomplicated panels.
 
 - When used as a panel frame you can get away with putting VHB only in the middle.
 
-- Recommended shrinkage compensation for the parts when printed in ABS is 99.3-99.5%. Make sure to test this before committing to printing huge amounts of plastic, because shrinkage can be 3-4mm in total.
+- Recommended **shrinkage compensation** for the parts when printed in **ABS is 99.3-99.5%**. Make sure to test this before committing to printing huge amounts of plastic, because shrinkage can be 3-4mm in total.
 
 - Clips are fairly sensitive to EM/PA, but can be easily scaled to fit perfectly in the other plastic parts. They're not sensitive to alu extrusion tolerances.
 
@@ -34,7 +42,7 @@ Overcomplicated panels.
 |No.|Description|Qty|
 |---|---|---|
 |1.|M3x16 SHCS or BHCS|definitely more than 10|
-|2.|M3x6 BHCS|definitely more than 10|
+|2.|M3x6 BHCS or M3x8 FHCS (better)|definitely more than 10|
 |3.|M3 nuts|definitely more than 10|
 |4.|M3x5x4mm heatset inserts|definitely more than 10|
 |5.|VHB tape|enough|
