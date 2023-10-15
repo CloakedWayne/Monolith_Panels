@@ -3,6 +3,10 @@
 ![1](Images/distant_view.png)
 
 ## Changelog:
+
+### 15.10.2023:
+- Fixed the brim blockers' coordinate sytems
+
 ### 07.10.2023:
 - Slightly beefier corner clamps (FHCS version added).
 
