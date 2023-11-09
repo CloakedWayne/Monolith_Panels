@@ -1,6 +1,10 @@
-# Monolith Panels for Voron 2.4 and Trident [BETA]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+# Monolith Panels for Voron 2.4 and Trident [WIP]
 
 ![1](Images/distant_view.png)
+
+[![ko-fi](Images/kofi_bg_tag_white.png)](https://ko-fi.com/cloakedwayne)
 
 ## Changelog:
 
@@ -45,11 +49,22 @@ Overcomplicated panels.
 
 |No.|Description|Qty|
 |---|---|---|
-|1.|M3x16 SHCS or BHCS|definitely more than 10|
+|1.|M3x16 SHCS or BHCS|probably more than 10|
 |2.|M3x6 BHCS or M3x8 FHCS (better)|definitely more than 10|
-|3.|M3 nuts|definitely more than 10|
+|3.|M3 nuts|probably more than 10|
 |4.|M3x5x4mm heatset inserts|definitely more than 10|
 |5.|VHB tape|enough|
 |6.|4mm OD PTFE tube|exactly 96mm|
 
 ![5](Images/corner_closeup.png)
+
+If you've any got questions you can find me on Discord ***@CloakedWayne***
+<br/><br/><br/><br/>
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
