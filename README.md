@@ -4,8 +4,6 @@
 
 ![1](Images/distant_view.png)
 
-[![ko-fi](Images/kofi_bg_tag_white.png)](https://ko-fi.com/cloakedwayne)
-
 ## Changelog:
 
 ### 15.10.2023:
