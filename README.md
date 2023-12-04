@@ -52,7 +52,8 @@ Overcomplicated panels.
 |3.|M3 nuts|probably more than 10|
 |4.|M3x5x4mm heatset inserts|definitely more than 10|
 |5.|VHB tape|enough|
-|6.|4mm OD PTFE tube|exactly 96mm|
+|6.|Foam tape|enough|
+|7.|4mm OD PTFE tube|exactly 96mm|
 
 ![5](Images/corner_closeup.png)
 
