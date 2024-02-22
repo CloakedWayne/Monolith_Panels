@@ -21,8 +21,10 @@ Overcomplicated panels.
 
 ![2](Images/upside_down.png)
 
-## Use: 
+## Use:
 - The CAD contains everything that's needed for V2/VT 250/300/350mm with BOM thickness panels (3mm) and is also **a good assembly guide**.
+
+- The vertical printed part length is determined by the theoretical Z travel and NOT the bed size. Pick the vertical part length based on the Z travel of your machine. Tridents usually have a 250mm Z, except for the cubed kits.
 
 - It's intended to be used with **another layer of 3mm foam tape** or with 5mm foam tape paired with 4mm panels (Monolith Gantry stepper protrusion is 3.6mm).
 
