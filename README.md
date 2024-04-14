@@ -4,18 +4,8 @@
 
 ![1](Images/distant_view.png)
 
-## Changelog:
+[![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
 
-### 15.10.2023:
-- Fixed the brim blockers' coordinate sytems
-
-### 07.10.2023:
-- Slightly beefier corner clamps (FHCS version added).
-
-- Added VHB where I think it's necessary.
-
-- Fixed some naming mistakes.
- 
 ## What's this?
 Overcomplicated panels.
 
