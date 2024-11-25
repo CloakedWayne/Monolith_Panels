@@ -1,7 +1,7 @@
 # TessaKavanagh ClickyClakyMod
 ##Acknowledgments:
 Special thanks for additions, goes to: 
-@luxflow
+@luxflow (optional 5mm parts and documentation)
 
 ## Spacer
 
