@@ -1,4 +1,7 @@
 # TessaKavanagh ClickyClakyMod
+##Acknowledgments
+Special thanks for all  additions, goes to:
+@luxflow
 
 ## Spacer
 
