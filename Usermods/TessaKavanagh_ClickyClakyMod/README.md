@@ -1,5 +1,5 @@
 # TessaKavanagh ClickyClakyMod
-##Acknowledgments
+##Acknowledgments:
 Special thanks for all  additions, goes to:
 @luxflow
 
