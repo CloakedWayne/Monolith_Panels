@@ -1,6 +1,10 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-# Monolith Panels for Voron 2.4 and Trident [WIP]
+# Monolith Panels for Voron 2.4 and Trident
+
+### 1515 extrusion version by CabbageCorp can be found [here](https://github.com/CloakedWayne/Monolith_Panels/tree/main/Usermods/CabbageCorp/Mini_Monolith).
+
+<br/>
 
 ![1](Images/distant_view.png)
 
