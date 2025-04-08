@@ -10,7 +10,7 @@ I’ve seen a couple of really nice mini-monolith versions floating around, and 
 
 This is currently only sized for 100mm tophat V0.2’s and any PFA variants like the Hex-Zero that has a 348mm vertical height. However, geometry is fairly easy to modify so cutting and extruding would allow different lengths for other PFA’s (please upload and share).
 
-Unfortunately, I forgot that monolith doesn’t have a door closure system for a trident or V0 type hinged door so I’ve just been using 3 clips to keep the door closed. There are future plans to integrate colony clacker and mini fridge doors down the line. If you like this project and want to help me get free filament, feel free to drop a like and download cad/stl’s from makerworld here (LINK)
+Unfortunately, I forgot that monolith doesn’t have a door closure system for a trident or V0 type hinged door so I’ve just been using 3 clips to keep the door closed. There are future plans to integrate colony clacker and mini fridge doors down the line. If you like this project and want to help me get free filament, feel free to drop a like and download cad/stl’s from makerworld here
 
 ## Why Mini Monolith?
 
@@ -41,10 +41,8 @@ Unfortunately, I forgot that monolith doesn’t have a door closure system for a
     | Amount | Part | Notes  |
     | --- | --- | --- |
     | 12 | heatset inserts m3x5x4 (voron) | 3 per corner |
-    | 8 | M3 x 16 BHSC/SHSC screws  | (10-16mm works)
-     |
-    | 
-    1 roll | 1mm x 5mm VHB foam tape | Voron BOM VHB tape cut in half works |
+    | 8 | M3 x 16 BHSC/SHSC screws  | (10-16mm works) |
+    | 1 roll | 1mm x 5mm VHB foam tape | Voron BOM VHB tape cut in half works |
     | 1 roll | 5-6mm wide, 3-5mm thick foam tape | 4.5m total for 3 panels + Top |
 - **Hinges**
     
@@ -136,6 +134,7 @@ I’d like to give a big thanks to these people for their contribution that made
 - #sonny5578, #chefha, and #brexited on Voron discord for teaching me cad and inputs
 - Ukutghost #hamido. #simonsaysty - special thanks to you guys for wasting filament, beta testing tolerances, finding print issues and giving suggestions.
 - #tigsteruk and Ukutghost- for being enthusiastic and helping me feel like my cad isn’t too janky to be shared
+- #seti118- for getting panels to me so fast
 
 License note:
 
