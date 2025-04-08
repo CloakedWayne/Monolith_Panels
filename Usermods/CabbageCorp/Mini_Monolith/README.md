@@ -20,6 +20,7 @@ Unfortunately, I forgot that monolith doesn’t have a door closure system for a
 - Mini monolith allows 2.8-3mm spacing between the frame and panels -allowing Pandora’s box and Hex-zero variants to have extra space for gantry
 - Strong clamping force to enable thicker foam and more squish
 - Extrusions covered to minimise heat loss
+- Recessed VHB tape slots for 4mm panels + 3mm foam (if you have 3mm panels+3mm foam, attach the VHB to the non-recessed parts of the frame for adequate squish)
 
 ### Main changes:
 
@@ -59,8 +60,7 @@ Unfortunately, I forgot that monolith doesn’t have a door closure system for a
     
     | Qty. | Part | Notes |
     | --- | --- | --- |
-    | 3 | Mini Fridge Door panels 
-    (3mm thick relaxed fit 329mm x 209mm) | Max dimensions: 329 x 210.8 |
+    | 3 | Mini Fridge Door panels (3mm thick relaxed fit 329mm x 209mm) | Max dimensions: 329 x 210.8 |
     | 1 | 209x209mm top panel (3mm thick) | Max dimensions: 210.8 x 210.8 |
     | 0 | Experimental 212x212mm top panel (3mm thick) | Due to widening straights, the clips may be pushed towards the centreline and fall out of the printed frame easier |
 - **Full coverage (2 Sides, Door and Top)**
@@ -69,14 +69,11 @@ Unfortunately, I forgot that monolith doesn’t have a door closure system for a
     | Amount | Part | Notes  |
     | --- | --- | --- |
     | 48 | heatset inserts m3x5x4 (voron) | 3 per corner |
-    | 32 | M3 x 16 BHSC/SHSC screws  | (10-16mm works)
-     |
-    | 
-    1 roll | 1mm x 5mm VHB foam tape | Voron BOM VHB tape cut in half works |
+    | 32 | M3 x 16 BHSC/SHSC screws  | (10-16mm works) |
+    | 1 roll | 1mm x 5mm VHB foam tape | Voron BOM VHB tape cut in half works |
     | 4.5M | 5-6mm wide, 3-5mm thick foam tape | 4.5m total for 3 panels + Top |
     | 2x | 3x20mm pins or 18mm PTFE tubes | 2 pins or 32mm ptfe total |
-    | 3 | Mini Fridge Door panels 
-    (3mm thick relaxed fit 329mm x 209mm) | Max dimensions: 329 x 210.8 |
+    | 3 | Mini Fridge Door panels (3mm thick relaxed fit 329mm x 209mm) | Max dimensions: 329 x 210.8 |
     | 1 | 209x209mm top panel (3mm thick) | Max dimensions: 210.8 x 210.8 |
 
 ## **Print notes:**
