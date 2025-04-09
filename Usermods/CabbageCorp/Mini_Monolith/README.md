@@ -10,7 +10,7 @@ I’ve seen a couple of really nice mini-monolith versions floating around, and 
 
 This is currently only sized for 100mm tophat V0.2’s and any PFA variants like the Hex-Zero that has a 348mm vertical height. However, geometry is fairly easy to modify so cutting and extruding would allow different lengths for other PFA’s (please upload and share).
 
-Unfortunately, I forgot that monolith doesn’t have a door closure system for a trident or V0 type hinged door so I’ve just been using 3 clips to keep the door closed. There are future plans to integrate colony clacker and mini fridge doors down the line. If you like this project and want to help me get free filament, feel free to drop a like and download cad/stl’s from makerworld here (LINK)
+Unfortunately, I forgot that monolith doesn’t have a door closure system for a trident or V0 type hinged door so I’ve just been using 3 clips to keep the door closed. There are future plans to integrate colony clacker and mini fridge doors down the line. [If you like this project and want to help me get free filament, feel free to drop a like and download cad/stl’s from makerworld here](https://makerworld.com/en/models/1300382-mini-monolith-panels-for-voron-v0-v0-2-1515-pfa#profileId-1332588)
 
 ## Why Mini Monolith?
 
@@ -20,6 +20,7 @@ Unfortunately, I forgot that monolith doesn’t have a door closure system for a
 - Mini monolith allows 2.8-3mm spacing between the frame and panels -allowing Pandora’s box and Hex-zero variants to have extra space for gantry
 - Strong clamping force to enable thicker foam and more squish
 - Extrusions covered to minimise heat loss
+- Recessed VHB tape slots for 4mm panels + 3mm foam (if you have 3mm panels+3mm foam, attach the VHB to the non-recessed parts of the frame for adequate squish)
 
 ### Main changes:
 
@@ -41,10 +42,8 @@ Unfortunately, I forgot that monolith doesn’t have a door closure system for a
     | Amount | Part | Notes  |
     | --- | --- | --- |
     | 12 | heatset inserts m3x5x4 (voron) | 3 per corner |
-    | 8 | M3 x 16 BHSC/SHSC screws  | (10-16mm works)
-     |
-    | 
-    1 roll | 1mm x 5mm VHB foam tape | Voron BOM VHB tape cut in half works |
+    | 8 | M3 x 16 BHSC/SHSC screws  | (10-16mm works) |
+    | 1 roll | 1mm x 5mm VHB foam tape | Voron BOM VHB tape cut in half works |
     | 1 roll | 5-6mm wide, 3-5mm thick foam tape | 4.5m total for 3 panels + Top |
 - **Hinges**
     
@@ -61,8 +60,7 @@ Unfortunately, I forgot that monolith doesn’t have a door closure system for a
     
     | Qty. | Part | Notes |
     | --- | --- | --- |
-    | 3 | Mini Fridge Door panels 
-    (3mm thick relaxed fit 329mm x 209mm) | Max dimensions: 329 x 210.8 |
+    | 3 | Mini Fridge Door panels (3mm thick relaxed fit 329mm x 209mm) | Max dimensions: 329 x 210.8 |
     | 1 | 209x209mm top panel (3mm thick) | Max dimensions: 210.8 x 210.8 |
     | 0 | Experimental 212x212mm top panel (3mm thick) | Due to widening straights, the clips may be pushed towards the centreline and fall out of the printed frame easier |
 - **Full coverage (2 Sides, Door and Top)**
@@ -71,14 +69,11 @@ Unfortunately, I forgot that monolith doesn’t have a door closure system for a
     | Amount | Part | Notes  |
     | --- | --- | --- |
     | 48 | heatset inserts m3x5x4 (voron) | 3 per corner |
-    | 32 | M3 x 16 BHSC/SHSC screws  | (10-16mm works)
-     |
-    | 
-    1 roll | 1mm x 5mm VHB foam tape | Voron BOM VHB tape cut in half works |
+    | 32 | M3 x 16 BHSC/SHSC screws  | (10-16mm works) |
+    | 1 roll | 1mm x 5mm VHB foam tape | Voron BOM VHB tape cut in half works |
     | 4.5M | 5-6mm wide, 3-5mm thick foam tape | 4.5m total for 3 panels + Top |
     | 2x | 3x20mm pins or 18mm PTFE tubes | 2 pins or 32mm ptfe total |
-    | 3 | Mini Fridge Door panels 
-    (3mm thick relaxed fit 329mm x 209mm) | Max dimensions: 329 x 210.8 |
+    | 3 | Mini Fridge Door panels (3mm thick relaxed fit 329mm x 209mm) | Max dimensions: 329 x 210.8 |
     | 1 | 209x209mm top panel (3mm thick) | Max dimensions: 210.8 x 210.8 |
 
 ## **Print notes:**
@@ -136,6 +131,7 @@ I’d like to give a big thanks to these people for their contribution that made
 - #sonny5578, #chefha, and #brexited on Voron discord for teaching me cad and inputs
 - Ukutghost #hamido. #simonsaysty - special thanks to you guys for wasting filament, beta testing tolerances, finding print issues and giving suggestions.
 - #tigsteruk and Ukutghost- for being enthusiastic and helping me feel like my cad isn’t too janky to be shared
+- #seti118- for getting panels to me so fast
 
 License note:
 
