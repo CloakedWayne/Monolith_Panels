@@ -10,7 +10,7 @@ I’ve seen a couple of really nice mini-monolith versions floating around, and 
 
 This is currently only sized for 100mm tophat V0.2’s and any PFA variants like the Hex-Zero that has a 348mm vertical height. However, geometry is fairly easy to modify so cutting and extruding would allow different lengths for other PFA’s (please upload and share).
 
-Unfortunately, I forgot that monolith doesn’t have a door closure system for a trident or V0 type hinged door so I’ve just been using 3 clips to keep the door closed. There are future plans to integrate colony clacker and mini fridge doors down the line. [If you like this project and want to help me get free filament, feel free to drop a like and download cad/stl’s from makerworld here](https://makerworld.com/en/models/1300382-mini-monolith-panels-for-voron-v0-v0-2-1515-pfa#profileId-1332588)
+Unfortunately, I forgot that monolith doesn’t have a door closure system for a trident or V0 type hinged door so I’ve just been using 3 clips to keep the door closed. ColonyClacker/Mini Fridge Door can be added with the additional verticals, hardware can be found (soon) on the [ColonyClacker](https://github.com/PrintersForAnts/ColonyClacker) repo. [If you like this project and want to help me get free filament, feel free to drop a like and download cad/stl’s from makerworld here](https://makerworld.com/en/models/1300382-mini-monolith-panels-for-voron-v0-v0-2-1515-pfa#profileId-1332588)
 
 ## Why Mini Monolith?
 
